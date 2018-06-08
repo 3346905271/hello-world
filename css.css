@@ -1,0 +1,38 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+b{
+	display:inline-block;
+	width:30px;
+	color:#fff;
+	}
+	
+    .litem>a{
+		display:inline-block;
+		text-align:center;
+		line-height:26px;
+		width:120px;
+        height:26px;
+		background-color:#C63;
+        color: #f00;
+        text-decoration: none;
+    }
+.uitem li{
+	padding-left:20px;
+	text-align:center;
+	line-height:26px;
+ width:100px;
+ height:26px;
+ background-color:#8dbff3;
+ color:#fff;
+ }
+ .uitem{
+	 display:none;
+	 }
+   
+        .uitem li:hover{
+        cursor:pointer;
+        background-color:#4862c7;
+        }
